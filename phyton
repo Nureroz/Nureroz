@@ -1,0 +1,23 @@
+import numpy as np
+import pandas as pd
+import random
+random_sayilar = random.choices(range(250,2501), k = 30)
+#5 satırlık ve sütunluk bitr dataframe oluştur
+df = pd.DataFrame(
+  data = [random_sayilar[i:i+6] for i in range(0,30,6)],
+  index = ['2020','2021','2022','2023','2024],
+  columns = ['ocak','şubat','mart','nisan','mayıs','haziran']
+  )
+  print(df)
+
+  try:
+    hangi_ay=(input("hangi aya ait bulgular isteniyor ?"))
+    print('\n\n',hangi_ay,'ayi verileri : \n =======')
+    print("yıl\tTutar\n=====")
+    print(df[hangi_ay])
+    print(hangi_ay,'ayi satiş tutarları ortalamsı : ', df[hangi_ay].mean())
+    print(hangi_ay,'ayı en yüksek tutar : ',df[hangi_ay].max())
+    print(hangi_ay,'ayı en düşük tutar : ',df[hangi_ay].min())
+except:
+    print(hangi_ay,'ayına ait veri bulunamadı !')
+
