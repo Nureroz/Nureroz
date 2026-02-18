@@ -44,7 +44,3 @@
 
 * **LinkedIn:** linkedin.com/in/elifnureroz/
 * **E-posta:** nureroz@icloud.com
-
----
-
-> " Hata yapmaktan korkma "
