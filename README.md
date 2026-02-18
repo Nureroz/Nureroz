@@ -1,4 +1,4 @@
-# Merhaba, Ben [Adın Soyadın] 👋
+# Merhaba, Ben ELİF NUR ERÖZ 👋
 
 ### 🚀 Yönetim Bilişim Sistemleri Öğrencisi | Linux & Sistem Yönetimi Meraklısı
 
@@ -42,8 +42,8 @@
 
 ## 📫 Bana Ulaşın
 
-* **LinkedIn:** [linkedin.com/in/elifnureroz/)
-* **E-posta:** [nureroz@icloud.com]
+* **LinkedIn:** linkedin.com/in/elifnureroz/
+* **E-posta:** nureroz@icloud.com
 
 ---
 
