@@ -20,7 +20,7 @@
 | Alan | Araçlar & Teknolojiler |
 | :--- | :--- |
 | **İşletim Sistemleri** | Linux (Debian, Ubuntu)
-| **Programlama & Scripting** | Python | C# | C
+| **Programlama & Scripting** | Python , C# , C |
 | **Veritabanı** | MySQL,MSSQL, POSTGRE SQL Sorgu Optimizasyonu |
 
 
